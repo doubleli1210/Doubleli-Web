@@ -1,0 +1,82 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>我的博客</title>
+<!-- TemplateEndEditable -->
+<!-- TemplateBeginEditable name="head" -->
+<!-- TemplateEndEditable -->
+<style type="text/css">
+body {
+    background-color: #FF1E70;
+     margin: 0px;
+body table {
+    
+}
+}
+table {
+    background-color: #FFFFFF;
+}
+p {
+}
+p {
+    font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+    font-style: oblique;
+    font-weight: 300;
+    line-height: 123%;
+    text-indent: 25px;
+    color: #E76E70;
+    text-align: left;
+    word-spacing: 3px;
+    margin: 15;
+}
+img {
+    margin: 8px;
+}
+</style>
+</head>
+
+<body>
+<table width="950" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tbody>
+    <tr>
+      <td width="316" height="661" align="left" valign="top"><img src="../images/left.jpg" alt="left" width="316" height="661" usemap="#Map"/></td>
+      <td valign="top"><div>
+        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+          <tbody>
+            <tr>
+              <td height="145" valign="top"><img src="../images/top.jpg" width="634" height="145" alt=""/></td>
+              </tr>
+            <!-- TemplateBeginEditable name="EditRegion3" -->
+            <tr>
+              <td height="65" valign="top"><img src="../images/rec.jpg" width="549" height="65" alt=""/></td>
+            </tr>
+            <tr>
+              <td height="451" align="left" valign="top"><p><img src="../images/IMG_6227.JPG" alt="合照" width="336" height="215" title="我的合照" align="left"/></p>
+                <p>My name is Li Yaling, I am from Heifei, Anhui province. And I am 23 years old. In the past three years, as an undergraduate, <br>
+                  I have been working hard to study my major. I have bulit up a solid foundation of professional knowledge and improved my quality in an all-round way. And I also get scholarships at the end of each term. Once I find I fall behind others, I will find out the reasons as soon as possible and try my best to catch up with others. That's why I can concentrate on my studies and succeed eventually.<br>
+                  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I am a responsible and ambitious girl. Once I set a goal for myself, I will fight for it until the last moment. I am also a very easy-going person. I like to establish good relationships with people around me. In my spare time, I like listening to music, watching movies and exercising. These recreational activities can help me relieve the pressure. When I am nervous in my study, I listen to music to relax. Sometimes I run on the playground after study at night. <br>
+                </p></td>
+            </tr>
+            <!-- TemplateEndEditable -->
+          </tbody>
+        </table>
+      </div></td>
+    </tr>
+    <tr>
+      <td height="30" colspan="2" align="center" valign="middle"><span style="font-size: 12px">The home of Double Li &copy;</span></td>
+    </tr>
+  </tbody>
+</table> 
+
+<map name="Map">
+  <area shape="circle" coords="159,148,41" href="../index.html" alt="首页">
+  <area shape="circle" coords="163,270,38" href="../photo.html" alt="我的相册">
+  <area shape="circle" coords="56,209,40" href="../index.html" alt="我的资料">
+  <area shape="circle" coords="54,321,40" href="../我的动漫.html" alt="我的动漫">
+
+  <area shape="circle" coords="139,384,41" href="../鹤过留影.html" alt="鹤过留影">
+</map>
+</body>
+</html>
